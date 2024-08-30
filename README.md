@@ -1,4 +1,4 @@
 # assembly
-Hello World!
+print : Hello World!
 
 procesor : ARM M1
