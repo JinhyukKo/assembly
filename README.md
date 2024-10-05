@@ -6,4 +6,6 @@
 `ld -o app app.o -e _start`
 
 ## Execute
+```
 ./app
+```
