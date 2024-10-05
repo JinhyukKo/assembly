@@ -1,4 +1,9 @@
 # assembly
-print : Hello World!
+## Assembler
+as -o hello.o hello.s
 
-procesor : ARM M1
+## Linker
+ld -o app app.o -e _start
+
+## Execute
+./app
